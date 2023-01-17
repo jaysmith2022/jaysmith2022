@@ -17,6 +17,10 @@ Front-End Software Developer Certificate from <a href="https://turing.edu/">Turi
 </div>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rae-107&style=flat&color=c4a4a3" alt="Profile Views"/>
+</div>
+
+<div align="center">
 
 
 
