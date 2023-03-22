@@ -11,20 +11,12 @@ Front-End Software Developer Certificate from <a href="https://turing.edu/">Turi
   <a href="https://www.linkedin.com/in/jordan-smith-331a0280//">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
   </a>
   <a href="mailto:jordan.smith6035@gmail.com">
-    ![pablohj08@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)        
+    ![jordan.smith6035@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)        
   </a>
   
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rae-107&style=flat&color=c4a4a3" alt="Profile Views"/>
-</div>
 
-<div align="center">
-
-
-
-</div>
 
 [![Jordan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jaysmith2022&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jaysmith2022/github-readme-stats#gh-dark-mode-only)
 [![Jordan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jaysmith2022&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jaysmith2022/github-readme-stats#gh-light-mode-only)
