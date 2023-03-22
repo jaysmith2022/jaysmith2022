@@ -18,11 +18,6 @@ Front-End Software Developer Certificate from <a href="https://turing.edu/">Turi
 
 
 
-[![Jordan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jaysmith2022&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jaysmith2022/github-readme-stats#gh-dark-mode-only)
-[![Jordan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jaysmith2022&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jaysmith2022/github-readme-stats#gh-light-mode-only)
-
-<div align="left">
-
 ### About Me
 - Pronouns: he/him
 - Background: I was an officer in my 7 years career in law enforcement and I have decided to change careers to become a software developer
